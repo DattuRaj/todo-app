@@ -1,0 +1,21 @@
+
+table
+{
+     margin-top: 50px;  justify-content: center; align-items: center; color: orange;
+}
+body
+{
+    color: rgb(224, 192, 192);
+}
+
+div
+{
+     width:
+      600px;height: 400px; border: 1.5px outset rgb(27, 14, 4);  border-radius: 10px; ;
+}
+label
+{
+  color: orange; font-size: 25px;
+}
+input{ border:2px solid orange; border-radius: 8px; padding: 5px; } 
+#btn{border: 3px solid white; border-radius: 5px; padding: 5px; margin-left: 10px; background-color: orange;}
