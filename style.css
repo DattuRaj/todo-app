@@ -1,0 +1,23 @@
+
+table
+{
+     margin-top: 50px;  justify-content: center; align-items: center; color: orange; font-size: 20px;
+     text-indent: 8px;
+}
+body
+{
+    color: rgb(31, 29, 29);background-color: black;
+}
+
+div
+{
+     width:100%;height:700px; border: 1.5px outset rgb(27, 14, 4);
+       border-radius: 10px; ; background-color: rgb(12, 12, 12);border:5px solid rgb(173, 151, 110);
+}
+label
+{
+  color: orange; font-size: 25px;
+}
+input{ border:2px solid orange; border-radius: 8px; padding: 5px; outline: none;} 
+#btn{border: 3px solid white; border-radius: 5px; padding: 5px; margin-left: 10px; outline: none;
+      background-color: orange;}
